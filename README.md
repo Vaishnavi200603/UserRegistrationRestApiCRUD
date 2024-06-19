@@ -13,7 +13,7 @@
   <li>Test Cases Handle</li>
 </ul>
 
-<h2>technologies Used</h2>
+<h2>Technologies Used</h2>
 <ul>
   <li>Java</li>
   <li>Spring Boot</li>
